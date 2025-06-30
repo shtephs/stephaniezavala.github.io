@@ -1,11 +1,43 @@
 ---
-title: "portfolio-website"
+title: "Stephanie Zavala"
+subtitle: "Veterinarian | Epidemiologist | Data Analyst"
+image: profile.jpg # Add your photo later
+about:
+  template: trestles
+  links:
+    - icon: linkedin
+      text: LinkedIn
+      href: https://www.linkedin.com/in/stephanievzavala
+    - icon: github
+      text: Github
+      href: https://github.com/shtephs
+    - icon: envelope
+      text: Email
+      href: mailto:stephaniezvv@gmail.com
+    - icon: globe
+      text: Veterinary Consultations
+      href: https://zoomenteinfo.wixsite.com/zoomente
 ---
 
-This is a Quarto website.
+## Welcome
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+I'm a veterinarian with a passion for epidemiology and data science, currently completing my Master's in Epidemiology. I combine clinical veterinary experience with analytical skills to tackle One Health challenges.
 
-```{r}
-1 + 1
-```
+## Current Focus
+
+-   🎓 **Master's in Epidemiology** (Expected 2026)
+-   📊 **Seeking remote opportunities** in Epidemiology, Public Health, or Data Analysis
+-   🧬 **Thesis**: Environmental and Anthropogenic factors for Tick-Borne Diseases in Switzerland
+-   💻 **Skills**: R programming, statistical analysis, data visualization, AI tools
+
+## What I Offer
+
+**Unique Background**: Clinical veterinary medicine meets epidemiological research under the One Health scope.
+
+**Technical Skills**: Comfortable in RStudio, statistical modeling, and data visualization. Currently developing AI digital tools for the veterinary community in Mexico.
+
+**Research Experience**: Contributing to peer reviewed research with hands on experience in study design, data analysis, and scientific communication.
+
+------------------------------------------------------------------------
+
+*Ready to contribute to meaningful projects in epidemiology, public health, or veterinary research. Available for remote opportunities in 2025 and full-time positions starting in 2026.*
