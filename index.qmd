@@ -21,13 +21,13 @@ about:
 
 ## My Story
 
-My path into epidemiology started during vet school in Mexico, where I vaccinated cats and dogs against rabies in both rural and urban areas, helping prevent human cases while protecting animals. Around that time, I became interested in disease surveillance. I followed real time reports from WAHIS and read publications from the World Organisation for Animal Health, which introduced me to the concept of One Health.
+My journey into epidemiology started during vet school in Mexico, where I vaccinated cats and dogs against rabies in both rural and urban areas, helping prevent human cases while protecting animals. Around that time, I became interested in disease surveillance. I followed real time reports from WAHIS and read publications from the World Organisation for Animal Health, which introduced me to the concept of One Health.
 
 Working as a veterinarian in Mexico and the USA taught me that context shapes how diseases spread and how people respond. Culture, economy, and environment all influence the situation. Data matters, but so do the stories behind it.
 
 What motivates me is what I learned in practice. Prevention and monitoring are key, and even small agents can lead to large scale consequences. COVID-19 made that clear to everyone.
 
-Today, whether I am researching tick-borne diseases or hiking in the Swiss Alps, I pay attention to how the environment and human behavior affect disease patterns. Studying epidemiology has changed how I think. I look at the world through data, and even something like a weather app makes me consider trends and risks.
+Today, whether I am researching tick-borne diseases or hiking in the Swiss Alps, I pay attention to how the environment and human behavior affect disease patterns.
 
 ## About Me
 
@@ -38,5 +38,3 @@ Today, whether I am researching tick-borne diseases or hiking in the Swiss Alps,
 -   🧬 **Thesis**: Environmental and anthropogenic factors for tick-borne diseases in Switzerland
 
 -   💻 **Skills**: R programming, statistical analysis, data visualization, GitHub
-
--   *Ready to contribute to meaningful projects where veterinary insight meets epidemiological rigor.*
