@@ -1,45 +1,73 @@
 [
   {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Click here to view or download my CV"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Master of Science in Epidemiology | September 2024 - Present\nUniversität Basel (in collaboration with Swiss TPH) | Basel, Switzerland\nBachelor’s Degree in Veterinary Medicine and Zootechnics | July 2021\nAutonomous University of the State of Hidalgo (UAEH) | Pachuca, Mexico\nFocus Areas: Small and Large Animal Medicine, Zoonotic Diseases, Livestock Farming, Public Health"
+  },
+  {
+    "objectID": "cv.html#professional-experience",
+    "href": "cv.html#professional-experience",
+    "title": "Curriculum Vitae",
+    "section": "Professional Experience",
+    "text": "Professional Experience\n\nLonestar Feline Health Center | Dallas, USA\nVeterinary Professional | January 2024 - June 2024\n\nProvided specialized veterinary care in clinical settings tailored to feline patients\nEmphasized preventive care, anesthesia management, and feline behavior\nExpertise in comprehensive medical history data collection\n\n\n\nTrail Pet Hospital | Dallas, USA\nVeterinary Professional | January 2022 - March 2024\n\nApplied veterinary expertise in U.S. based clinical environment, ensuring adherence to local standards\nSupported diagnostic procedures, treatment planning, and surgical interventions\nManaged anesthesia administration and monitoring during procedures\nSpecialized in preventive care and surgical protocols\n\n\n\nCityVet Uptown | Dallas, USA\nVeterinary Professional | September 2022 - May 2023\n\nCollaborated with team of 25 professionals providing healthcare for small animals\nEmployee of the Month for three consecutive months\nSpecialized in comprehensive patient medical record documentation\n\n\n\nPeek Veterinary Hospital | Pachuca, Mexico\nVeterinarian | June 2020 - December 2021\n\nLed zoonotic disease control through parasite prevention protocols in companion animals and cattle\nSpecialized in emergency stabilization and immediate patient care\nProficient in diagnostic interpretation: laboratory results, imaging, and clinical signs\nExcellent communication of complex medical information to pet owners"
+  },
+  {
+    "objectID": "cv.html#research-public-health-experience",
+    "href": "cv.html#research-public-health-experience",
+    "title": "Curriculum Vitae",
+    "section": "Research & Public Health Experience",
+    "text": "Research & Public Health Experience\n\nNational Sterilization Campaign for Small Animals | Pachuca, Mexico\nSurgical Assistant | December 2019 & June 2020\n\nAssisted in sterilization procedures for dogs and cats in resourcenlimited areas\nProvided post-operative care and supported surgical teams\n\n\n\nNational Rabies Vaccination Campaign | Pachuca, Mexico\nVolunteer | September 2018 & May 2019\n\nVaccinated average of 500 animals per week for disease control and surveillance\nConducted data collection and medical assessments prior to vaccination\nEducated pet owners on rabies prevention and responsible pet care\n\n\n\nUAEH - Institute of Agricultural and Animal Sciences | Pachuca, Mexico\nLaboratory Assistant | January 2018 - May 2018\n\nSample preparation and processing for pathology and bacteriology tests\nPerformed Brucellosis identification tests and tick identification in cattle\nSpecialized in cytology slide preparation and staining for zoonotic disease detection\nMaintained laboratory safety and organization protocols"
+  },
+  {
+    "objectID": "cv.html#technical-skills",
+    "href": "cv.html#technical-skills",
+    "title": "Curriculum Vitae",
+    "section": "Technical Skills",
+    "text": "Technical Skills\nLanguages: Spanish (native), English (proficient), German (elemental)\nSoftware & Tools: Veterinary Software, Stata, RStudio, ODK, REDCap, QGIS, Microsoft Office\nAI & Automation: OpenAI (GPT), Anthropic, Google Gemini, GitHub Copilot for data analysis and research workflows\nResearch Tools: EndNote, Zotero, literature review methodologies\nSpecializations: Statistical modeling, data-driven decision making, biostatistics, predictive analytics, disease surveillance, risk assessment"
+  },
+  {
+    "objectID": "cv.html#certifications",
+    "href": "cv.html#certifications",
+    "title": "Curriculum Vitae",
+    "section": "Certifications",
+    "text": "Certifications\nAnimal Behavior and Welfare Certification | April 2024\nThe University of Edinburgh\nClinical Animal Behavior and Ethology for Small Animals | August 2022 - May 2023\nNational University of the Center of the Province of Buenos Aires (UNICEN)"
+  },
+  {
+    "objectID": "cv.html#core-competencies",
+    "href": "cv.html#core-competencies",
+    "title": "Curriculum Vitae",
+    "section": "Core Competencies",
+    "text": "Core Competencies\n\nOne Health Approach: Integrating animal, human, and environmental health\nDisease Control: Zoonotic disease prevention, surveillance, and outbreak management\nClinical Excellence: Emergency care, anesthesia management, surgical support\nData Analysis: Statistical software, epidemiological modeling, research methodologies\nCross-Cultural Collaboration: International work experience across Mexico, USA, and Switzerland\nPublic Health: Community engagement, vaccination campaigns, health education\n\n\nAvailable for remote opportunities in 2025 and full-time positions starting in 2026"
+  },
+  {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Stephanie Zavala",
     "section": "",
-    "text": "My journey into epidemiology started during vet school in Mexico, where I vaccinated cats and dogs against rabies in both rural and urban areas, helping prevent human cases while protecting animals. Around that time, I became interested in disease surveillance. I followed real time reports from WAHIS and read publications from the World Organisation for Animal Health, which introduced me to the concept of One Health.\nWorking as a veterinarian in Mexico and the USA taught me that context shapes how diseases spread and how people respond. Culture, economy, and environment all influence the situation. Data matters, but so do the stories behind it.\nWhat motivates me is what I learned in practice. Prevention and monitoring are key, and even small agents can lead to large scale consequences. COVID-19 made that clear to everyone.\nToday, whether I am researching tick-borne diseases or hiking in the Swiss Alps, I pay attention to how the environment and human behavior affect disease patterns."
+    "text": "Hello, I’m Stephanie. I’m a veterinarian currently completing a Master’s in Epidemiology. This website is my portfolio, where I share my background, current work, and interests."
   },
   {
     "objectID": "index.html#welcome",
     "href": "index.html#welcome",
     "title": "Stephanie Zavala",
     "section": "",
-    "text": "I’m a veterinarian with a passion for epidemiology and data science, currently completing my Master’s in Epidemiology. I combine clinical veterinary experience with analytical skills to tackle One Health challenges."
+    "text": "Hello, I’m Stephanie. I’m a veterinarian currently completing a Master’s in Epidemiology. This website is my portfolio, where I share my background, current work, and interests."
   },
   {
-    "objectID": "index.html#current-focus",
-    "href": "index.html#current-focus",
+    "objectID": "index.html#overview",
+    "href": "index.html#overview",
     "title": "Stephanie Zavala",
-    "section": "Current Focus",
-    "text": "Current Focus\n\n🎓 Master’s in Epidemiology (Expected 2026)\n📊 Seeking remote opportunities in Epidemiology, Public Health, or Data Analysis\n🧬 Thesis: Environmental and Anthropogenic factors for Tick-Borne Diseases in Switzerland\n💻 Skills: R programming, statistical analysis, data visualization, AI tools"
-  },
-  {
-    "objectID": "index.html#what-i-offer",
-    "href": "index.html#what-i-offer",
-    "title": "Stephanie Zavala",
-    "section": "What I Offer",
-    "text": "What I Offer\nUnique Background: Clinical veterinary medicine meets epidemiological research under the One Health scope.\nTechnical Skills: Comfortable in RStudio, statistical modeling, and data visualization. Currently developing AI digital tools for the veterinary community in Mexico.\nResearch Experience: Contributing to peer reviewed research with hands on experience in study design, data analysis, and scientific communication.\n\nReady to contribute to meaningful projects in epidemiology, public health, or veterinary research. Available for remote opportunities in 2025 and full-time positions starting in 2026."
-  },
-  {
-    "objectID": "cv.html",
-    "href": "cv.html",
-    "title": "",
-    "section": "",
-    "text": "Code"
-  },
-  {
-    "objectID": "projects.html",
-    "href": "projects.html",
-    "title": "Projects",
-    "section": "",
-    "text": "Status: Under revision | Role: Co-author, Annex Development\nThis interdisciplinary research explores the complex relationships between human communities, livestock, wildlife, and environmental health in Mongolia’s pastoral systems. My contribution focused on developing comprehensive annexes that bridge veterinary science with socio-ecological analysis.\nKey Contributions: - Development of technical annexes linking animal health indicators to ecosystem sustainability - Integration of veterinary epidemiological concepts with social-ecological frameworks - Synthesis of livestock health data with environmental and livelihood outcomes"
+    "section": "Overview",
+    "text": "Overview\n🎓 Master’s in Epidemiology (expected 2026)\n📊 Seeking remote opportunities in epidemiology, public health, or data analysis (2025)\n🧬 Thesis: Environmental and anthropogenic factors influencing tick-borne diseases in Switzerland\n💻 Skills: R programming, statistical analysis, data visualization, GitHub"
   },
   {
     "objectID": "contact.html",
@@ -49,60 +77,46 @@
     "text": "Code"
   },
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "contact.html#get-in-touch",
+    "href": "contact.html#get-in-touch",
+    "title": "",
+    "section": "Get in Touch",
+    "text": "Get in Touch\n\n📧 Email Me\nDrop me a line anytime! I typically respond within 24 hours.\nSend Email\nstephaniezvv@gmail.com"
+  },
+  {
+    "objectID": "contact.html#lets-connect",
+    "href": "contact.html#lets-connect",
+    "title": "",
+    "section": "Let’s Connect",
+    "text": "Let’s Connect\n\nProject collaboration\nProfessional opportunities\nJust to chat\n\n\nLooking forward to connecting!"
+  },
+  {
+    "objectID": "projects.html",
+    "href": "projects.html",
+    "title": "Projects",
     "section": "",
-    "text": "About this site\n\n\nCode\n1 + 1\n\n\n[1] 2"
-  },
-  {
-    "objectID": "index.html#my-story",
-    "href": "index.html#my-story",
-    "title": "Stephanie Zavala",
-    "section": "",
-    "text": "My journey into epidemiology started during vet school in Mexico, where I vaccinated cats and dogs against rabies in both rural and urban areas, helping prevent human cases while protecting animals. Around that time, I became interested in disease surveillance. I followed real time reports from WAHIS and read publications from the World Organisation for Animal Health, which introduced me to the concept of One Health.\nWorking as a veterinarian in Mexico and the USA taught me that context shapes how diseases spread and how people respond. Culture, economy, and environment all influence the situation. Data matters, but so do the stories behind it.\nWhat motivates me is what I learned in practice. Prevention and monitoring are key, and even small agents can lead to large scale consequences. COVID-19 made that clear to everyone.\nToday, whether I am researching tick-borne diseases or hiking in the Swiss Alps, I pay attention to how the environment and human behavior affect disease patterns."
-  },
-  {
-    "objectID": "index.html#what-i-do-now",
-    "href": "index.html#what-i-do-now",
-    "title": "Stephanie Zavala",
-    "section": "What I Do Now",
-    "text": "What I Do Now\n\n🎓 Master’s in Epidemiology (Expected 2026)\n\n📊 Seeking remote opportunities in epidemiology, public health, or data analysis (2025)\n\n📝 Research: Publication under revision in veterinary epidemiology\n\n🧬 Thesis: Environmental and anthropogenic factors for tick-borne diseases in Switzerland\n\n💻 Skills: R programming, statistical analysis, data visualization\n\n\nReady to contribute to meaningful One Health projects where veterinary insight meets epidemiological rigor. Available for remote opportunities in 2025 and full-time positions starting in 2026."
-  },
-  {
-    "objectID": "index.html#about-me",
-    "href": "index.html#about-me",
-    "title": "Stephanie Zavala",
-    "section": "About Me",
-    "text": "About Me\n\n🎓 Master’s in Epidemiology (Expected 2026)\n📊 Seeking remote opportunities in epidemiology, public health, or data analysis (2025)\n🧬 Thesis: Environmental and anthropogenic factors for tick-borne diseases in Switzerland\n💻 Skills: R programming, statistical analysis, data visualization, GitHub"
+    "text": "Status: Research paper under revision\nRole: Co-author\nExplores the links between livestock, wildlife, and environmental health. I developed technical annexes connecting veterinary indicators to ecosystem sustainability.\nKey skills: Interdisciplinary synthesis, One Health, data integration\n\n\n\nStatus: Protocol phase | Expected: 2026\nMaster’s thesis on how climate and human activity affect tick disease risk. Uses GIS and national surveillance data for spatial and time series analysis.\nTools: GIS, R, epidemiological modeling\n\n\n\nTools: R, SEIR models\nSimulated flu outbreaks with R using SEIR modeling. Included parameters and visualizing epidemic curves.\nSkills: Advanced R, modeling, visualization\n\n\n\nFocused on real-world research data processing and pipeline design using R. Emphasized reproducibility and reporting.\nSkills: Statistical analysis, documentation, QA\n\n\n\nStatus: In development\nBuilding an AI mobile app to help vets document cases faster. Includes audio transcription, auto-summary, and diagnostic suggestions.\nTech: NLP, UX, mobile development"
   },
   {
     "objectID": "projects.html#research-publications",
     "href": "projects.html#research-publications",
     "title": "Projects",
-    "section": "",
-    "text": "Status: Under revision | Role: Co-author, Annex Development\nThis interdisciplinary research explores the complex relationships between human communities, livestock, wildlife, and environmental health in Mongolia’s pastoral systems. My contribution focused on developing comprehensive annexes that bridge veterinary science with socio-ecological analysis.\nKey Contributions: - Development of technical annexes linking animal health indicators to ecosystem sustainability - Integration of veterinary epidemiological concepts with social-ecological frameworks - Synthesis of livestock health data with environmental and livelihood outcomes"
-  },
-  {
-    "objectID": "projects.html#current-research",
-    "href": "projects.html#current-research",
-    "title": "Projects",
-    "section": "Current Research",
-    "text": "Current Research\n\nMaster’s Thesis: Environmental and Anthropogenic Factors for Tick-borne Diseases in Switzerland\nStatus: Protocol development phase | Expected completion: 2026\nInvestigating how climate change and human activities influence the distribution and risk patterns of tick-borne diseases across Swiss landscapes.\nMethodology: - Time series analysis using national surveillance data - Geographic Information Systems (GIS) for spatial analysis - Integration of environmental, demographic, and epidemiological datasets - Statistical modeling to identify risk factors and predict future trends\nData Sources: Swiss national health surveillance systems and meteorological data"
+    "section": "Research Publications",
+    "text": "Research Publications\n\nOne Health in Social-Ecological Systems: Optimizing Natural Resources, Livelihoods and Health of Humans and Animals in Mongolia\nStatus: Under revision | Role: Co-author, Annex Development\nThis interdisciplinary research explores the complex relationships between human communities, livestock, wildlife, and environmental health in Mongolia’s pastoral systems. My contribution focused on developing comprehensive annexes that bridge veterinary science with socio-ecological analysis.\nKey Contributions:\n\nDevelopment of technical annexes linking animal health indicators to ecosystem sustainability\nIntegration of veterinary epidemiological concepts with social-ecological frameworks\nSynthesis of livestock health data with environmental and livelihood outcomes\n\nCurrent Research\n\n\n\nMaster’s Thesis: Environmental and Anthropogenic Factors for Tick-borne Diseases in Switzerland\nStatus: Protocol development phase | Expected completion: 2026\nInvestigating how climate change and human activities influence the distribution and risk patterns of tick-borne diseases across Swiss landscapes.\nMethodology:\n\nTime series analysis using national surveillance data\nGeographic Information Systems (GIS) for spatial analysis\nIntegration of environmental, demographic, and epidemiological datasets\nStatistical modeling to identify risk factors and predict future trends\n\nData Sources: Swiss national health surveillance systems and meteorological data"
   },
   {
     "objectID": "projects.html#technical-projects",
     "href": "projects.html#technical-projects",
     "title": "Projects",
     "section": "Technical Projects",
-    "text": "Technical Projects\n\nMathematical Modeling of Influenza Epidemics\nTools: R, SEIR models, epidemiological modeling\nDeveloped comprehensive mathematical models to simulate influenza transmission dynamics, combining SEIR (Susceptible-Exposed-Infected-Recovered) frameworks with additional epidemiological parameters.\nTechnical Skills Demonstrated: - Advanced R programming for epidemiological modeling - Parameter estimation and model validation - Scenario analysis and sensitivity testing - Data visualization of epidemic curves and transmission patterns\n\n\nResearch Data Management & Analysis\nTools: R, data cleaning, statistical analysis\nComprehensive data cleaning and analysis project focusing on research data management best practices. Worked with complex, real-world datasets to demonstrate proficiency in: - Data quality assessment and cleaning protocols - Statistical analysis pipeline development - Documentation and reproducible analysis workflows - Data visualization and reporting"
+    "text": "Technical Projects\n\nMathematical Modeling of Influenza Epidemics\nTools: R, SEIR models, epidemiological modeling\nDeveloped comprehensive mathematical models to simulate influenza transmission dynamics, combining SEIR (Susceptible-Exposed-Infected-Recovered) frameworks with additional epidemiological parameters.\nTechnical Skills Demonstrated:\n\nAdvanced R programming for epidemiological modeling\nParameter estimation and model validation\nScenario analysis and sensitivity testing\nData visualization of epidemic curves and transmission patterns\n\n\n\nResearch Data Management & Analysis\nTools: R, data cleaning, statistical analysis\nComprehensive data cleaning and analysis project focusing on research data management best practices. Demonstrate proficiency in:\n\nData quality assessment and cleaning protocols\nStatistical analysis pipeline development\nDocumentation and reproducible analysis workflows\nData visualization and reporting"
   },
   {
     "objectID": "projects.html#innovation-in-development",
     "href": "projects.html#innovation-in-development",
     "title": "Projects",
     "section": "Innovation in Development",
-    "text": "Innovation in Development\n\nVetClinic Assistant App\nStatus: In development | Target: Mexican veterinary market\nDeveloping an AI-powered mobile application to revolutionize veterinary consultations by reducing administrative burden and improving clinical documentation accuracy.\nKey Features: - Audio-to-text transcription of veterinary consultations - Automated consultation summaries with key clinical findings - Diagnostic suggestions based on clinical protocols - Streamlined medical records management - Time optimization for veterinary professionals\nTechnical Stack: Mobile app development, natural language processing, veterinary clinical databases\nImpact Goal: Reduce consultation documentation time by 50% while improving record accuracy and clinical decision support for veterinarians in Mexico."
+    "text": "Innovation in Development\n\nVetNota: AI Assistant\nStatus: In development | Target: Mexican veterinary market\nDeveloping an AI powered mobile application to revolutionize veterinary consultations by reducing administrative burden and improving clinical documentation accuracy.\nKey Features:\n\nAudio-to-text transcription of veterinary consultations\nAutomated consultation summaries with key clinical findings\nDiagnostic suggestions based on clinical protocols\nStreamlined medical records management\nTime optimization for veterinary professionals\n\nTechnical Stack: Mobile app development, natural language processing, veterinary clinical databases"
   },
   {
     "objectID": "projects.html#skills-demonstrated-across-projects",
@@ -112,10 +126,59 @@
     "text": "Skills Demonstrated Across Projects\n\nProgramming: R, statistical modeling, data visualization\nAnalysis: Time series analysis, GIS, epidemiological modeling\nResearch: Literature review, protocol development, interdisciplinary collaboration\nInnovation: Mobile app development, AI integration, user experience design\nCommunication: Scientific writing, technical documentation, cross-cultural collaboration"
   },
   {
-    "objectID": "index.html#info",
-    "href": "index.html#info",
-    "title": "Stephanie Zavala",
-    "section": "Info",
-    "text": "Info\n\n🎓 Master’s in Epidemiology (Expected 2026)\n📊 Seeking remote opportunities in epidemiology, public health, or data analysis (2025)\n🧬 Thesis: Environmental and anthropogenic factors for tick-borne diseases in Switzerland\n💻 Skills: R programming, statistical analysis, data visualization, GitHub"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "My journey began in veterinary school in Mexico, vaccinating cats and dogs against rabies in both rural and urban areas. This experience led me to pursue a postgraduate in epidemiology.\n\n\n\nFollowing real time reports from WAHIS and publications from the World Organisation for Animal Health introduced me to disease surveillance and the One Health approach.\n\n\n\nWorking as a vet across Mexico and the USA taught me something crucial: context matters. The same disease behaves differently depending on culture, economy, and environment. Numbers tell part of the story, but the human and animal experiences behind the data are just as important.\n\n\n\nI learned that prevention and monitoring are essential, and that small agents can cause large scale consequences, as the COVID-19 pandemic showed.\n\n\n\nNow, while researching tick-borne diseases and hiking in the Swiss Alps, I focus on how environment and human behavior shape disease patterns."
+  },
+  {
+    "objectID": "about.html#my-journey",
+    "href": "about.html#my-journey",
+    "title": "About",
+    "section": "",
+    "text": "My journey began in veterinary school in Mexico, vaccinating cats and dogs against rabies in both rural and urban areas. This experience led me to pursue a postgraduate in epidemiology.\n\n\n\nFollowing real time reports from WAHIS and publications from the World Organisation for Animal Health introduced me to disease surveillance and the One Health approach.\n\n\n\nWorking as a vet across Mexico and the USA taught me something crucial: context matters. The same disease behaves differently depending on culture, economy, and environment. Numbers tell part of the story, but the human and animal experiences behind the data are just as important.\n\n\n\nI learned that prevention and monitoring are essential, and that small agents can cause large scale consequences, as the COVID-19 pandemic showed.\n\n\n\nNow, while researching tick-borne diseases and hiking in the Swiss Alps, I focus on how environment and human behavior shape disease patterns."
+  },
+  {
+    "objectID": "about.html#beyond-the-lab",
+    "href": "about.html#beyond-the-lab",
+    "title": "About",
+    "section": "Beyond the Lab",
+    "text": "Beyond the Lab\n\nHiking\nI grew up hiking in the mountains of central Mexico, my hometown is a national park, and I grew up respecting nature and wanting to help protect it.\n\n\nMountain Biking\nI enjoy the adrenaline of outdoor sports, and learning mountain biking has taught me resilience.\n\n\nLifelong Learning\nI genuinely enjoy learning new things and being a beginner. There’s something exciting about figuring things out from scratch, whether it’s crocheting, baking, learning programming language, or a new statistical method. I think this curiosity and comfort with not knowing everything is essential in a field like epidemiology, where we’re constantly encountering new challenges and evolving threats."
+  },
+  {
+    "objectID": "cv.html#download-cv-pdf",
+    "href": "cv.html#download-cv-pdf",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Click here to view or download my CV"
+  },
+  {
+    "objectID": "about.html#beyond-my-computer",
+    "href": "about.html#beyond-my-computer",
+    "title": "About",
+    "section": "Beyond my Computer",
+    "text": "Beyond my Computer\n\nPersonal Interests\n\n\n🏞 Hiking\nNothing beats fresh mountain air to clear the mind.\n\n\n🚴 Mountain Biking & Cycling\nFrom pedal power to peaceful coffee sips, balance is key.\n\n\n🎬 Brain Rest\nScreen time watching cinema fuels my next big idea.\n\n\n\nLifelong Learning\nI genuinely enjoy learning new things and being a beginner. There’s something nice about figuring things out from scratch, whether it’s crocheting, baking, learning programming language, or a new statistical method."
+  },
+  {
+    "objectID": "projects.html#projects",
+    "href": "projects.html#projects",
+    "title": "Projects",
+    "section": "",
+    "text": "Status: Resear Paper under revision\nRole: Co-author\nExplores the links between livestock, wildlife, and environmental health. I developed technical annexes connecting veterinary indicators to ecosystem sustainability.\nKey skills: Interdisciplinary synthesis, One Health, data integration\n\n\n\nStatus: Protocol phase | Expected: 2026\nMaster’s thesis on how climate and human activity affect tick disease risk. Uses GIS and national surveillance data for spatial and time series analysis.\nTools: GIS, R, epidemiological modeling\n\n\n\nTools: R, SEIR models\nSimulated flu outbreaks with R using SEIR modeling. Included parameters and visualizing epidemic curves.\nSkills: Advanced R, modeling, visualization\n\n\n\nFocused on real-world research data processing and pipeline design using R. Emphasized reproducibility and reporting.\nSkills: Statistical analysis, documentation, QA\n\n\n\nStatus: In development\nBuilding an AI mobile app to help vets document cases faster. Includes audio transcription, auto-summary, and diagnostic suggestions.\nTech: NLP, UX, mobile development"
+  },
+  {
+    "objectID": "projects.html#core-skills",
+    "href": "projects.html#core-skills",
+    "title": "Projects",
+    "section": "Core Skills",
+    "text": "Core Skills\n\n🧠 Epidemiological modeling, statistical analysis\n\n🗂 Data cleaning, R scripting, reproducibility\n\n🌍 One Health frameworks and interdisciplinary thinking\n\n💡 Innovation: AI prototyping, UX design\n\n✍️ Scientific writing, protocol development"
+  },
+  {
+    "objectID": "projects.html#overview",
+    "href": "projects.html#overview",
+    "title": "Projects",
+    "section": "",
+    "text": "Status: Research paper under revision\nRole: Co-author\nExplores the links between livestock, wildlife, and environmental health. I developed technical annexes connecting veterinary indicators to ecosystem sustainability.\nKey skills: Interdisciplinary synthesis, One Health, data integration\n\n\n\nStatus: Protocol phase | Expected: 2026\nMaster’s thesis on how climate and human activity affect tick disease risk. Uses GIS and national surveillance data for spatial and time series analysis.\nTools: GIS, R, epidemiological modeling\n\n\n\nTools: R, SEIR models\nSimulated flu outbreaks with R using SEIR modeling. Included parameters and visualizing epidemic curves.\nSkills: Advanced R, modeling, visualization\n\n\n\nFocused on real-world research data processing and pipeline design using R. Emphasized reproducibility and reporting.\nSkills: Statistical analysis, documentation, QA\n\n\n\nStatus: In development\nBuilding an AI mobile app to help vets document cases faster. Includes audio transcription, auto-summary, and diagnostic suggestions.\nTech: NLP, UX, mobile development"
   }
 ]
