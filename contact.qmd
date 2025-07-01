@@ -1,0 +1,28 @@
+# Contact
+
+I'd love to hear from you!
+
+## Get in Touch
+
+:::{.contact-email}
+
+📧 Email Me
+
+Drop me a line anytime! I typically respond within 24 hours.
+
+[Send Email](mailto:stephaniezvv@gmail.com){.btn .btn-primary}
+
+*stephaniezvv\@gmail.com*
+:::
+
+## Let's Connect
+
+-   **Project collaboration**
+
+-   **Professional opportunities**
+
+-   **Just to chat**
+
+------------------------------------------------------------------------
+
+*Looking forward to connecting!*

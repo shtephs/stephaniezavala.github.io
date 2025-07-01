@@ -1,7 +1,7 @@
 ---
 title: "Stephanie Zavala"
-subtitle: "Veterinarian | Epidemiologist | Data Analyst"
-image: profile.jpg # Add your photo later
+subtitle: "Veterinarian | Epidemiologist"
+image: profile.png
 about:
   template: trestles
   links:
@@ -9,7 +9,7 @@ about:
       text: LinkedIn
       href: https://www.linkedin.com/in/stephanievzavala
     - icon: github
-      text: Github
+      text: GitHub
       href: https://github.com/shtephs
     - icon: envelope
       text: Email
@@ -19,22 +19,16 @@ about:
       href: https://zoomenteinfo.wixsite.com/zoomente
 ---
 
-## My Story
+## **Welcome** 
 
-My journey into epidemiology started during vet school in Mexico, where I vaccinated cats and dogs against rabies in both rural and urban areas, helping prevent human cases while protecting animals. Around that time, I became interested in disease surveillance. I followed real time reports from WAHIS and read publications from the World Organisation for Animal Health, which introduced me to the concept of One Health.
+Hello, I’m Stephanie. I’m a veterinarian currently completing a Master’s in Epidemiology. This website is my portfolio, where I share my background, current work, and interests.
 
-Working as a veterinarian in Mexico and the USA taught me that context shapes how diseases spread and how people respond. Culture, economy, and environment all influence the situation. Data matters, but so do the stories behind it.
+## **Overview**
 
-What motivates me is what I learned in practice. Prevention and monitoring are key, and even small agents can lead to large scale consequences. COVID-19 made that clear to everyone.
+🎓 Master’s in Epidemiology (expected 2026)
 
-Today, whether I am researching tick-borne diseases or hiking in the Swiss Alps, I pay attention to how the environment and human behavior affect disease patterns.
+📊 Seeking remote opportunities in epidemiology, public health, or data analysis (2025)
 
-## Info
+🧬 Thesis: Environmental and anthropogenic factors influencing tick-borne diseases in Switzerland
 
--   🎓 **Master's in Epidemiology** (Expected 2026)
-
--   📊 **Seeking remote opportunities** in epidemiology, public health, or data analysis (2025)
-
--   🧬 **Thesis**: Environmental and anthropogenic factors for tick-borne diseases in Switzerland
-
--   💻 **Skills**: R programming, statistical analysis, data visualization, GitHub
+💻 Skills: R programming, statistical analysis, data visualization, GitHub
