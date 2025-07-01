@@ -1,0 +1,23 @@
+---
+title: "Curriculum Vitae"
+format: html
+---
+
+## 📄 Download CV (PDF)
+
+[Click here to view or download my CV](stephanie-zavala-cv.pdf){target="_blank"}
+
+------------------------------------------------------------------------
+
+## Core Competencies
+
+-   **One Health Approach:** Integrating animal, human, and environmental health
+-   **Disease Control:** Zoonotic disease prevention, surveillance, and outbreak management
+-   **Clinical Excellence:** Emergency care, anesthesia management, surgical support
+-   **Data Analysis:** Statistical software, epidemiological modeling, research methodologies
+-   **Cross-Cultural Collaboration:** International work experience across Mexico, USA, and Switzerland
+-   **Public Health:** Community engagement, vaccination campaigns, health education
+
+------------------------------------------------------------------------
+
+*Available for remote opportunities in 2025 and full-time positions starting in 2026*

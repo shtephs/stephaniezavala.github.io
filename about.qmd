@@ -1,0 +1,51 @@
+---
+title: "About"
+---
+
+## My Journey
+
+::: accordion
+#### Vet School & Field Work in Mexico
+
+My journey began in veterinary school in Mexico, vaccinating cats and dogs against rabies in both rural and urban areas. This experience led me to pursue a postgraduate in epidemiology.
+
+#### Disease Surveillance & One Health
+
+Following real time reports from WAHIS and publications from the World Organisation for Animal Health introduced me to disease surveillance and the One Health approach.
+
+#### Veterinary Work in Mexico & the USA
+
+Working as a vet across Mexico and the USA taught me something crucial: context matters. The same disease behaves differently depending on culture, economy, and environment. Numbers tell part of the story, but the human and animal experiences behind the data are just as important.
+
+#### Motivation & Lessons Learned
+
+I learned that prevention and monitoring are essential, and that small agents can cause large scale consequences, as the COVID-19 pandemic showed.
+
+#### Master’s Studies in Switzerland & Research
+
+Now, while researching tick-borne diseases and hiking in the Swiss Alps, I focus on how environment and human behavior shape disease patterns.
+:::
+
+## Beyond my Computer
+
+### Personal Interests
+
+::: accordion
+#### 🏞 Hiking
+
+Nothing beats fresh mountain air to clear the mind.
+
+#### 🚴 Mountain Biking & Cycling
+
+From pedal power to peaceful coffee sips, balance is key.
+
+#### 🎬 Brain Rest
+
+Screen time watching cinema fuels my next big idea.
+:::
+
+::: accordion
+#### Lifelong Learning
+
+I genuinely enjoy learning new things and being a beginner. There's something nice about figuring things out from scratch, whether it's crocheting, baking, learning programming language, or a new statistical method.
+:::
