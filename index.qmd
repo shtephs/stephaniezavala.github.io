@@ -19,25 +19,24 @@ about:
       href: https://zoomenteinfo.wixsite.com/zoomente
 ---
 
-## Welcome
+## My Story
 
-I'm a veterinarian with a passion for epidemiology and data science, currently completing my Master's in Epidemiology. I combine clinical veterinary experience with analytical skills to tackle One Health challenges.
+My journey into epidemiology began in the field. As a veterinary student in Mexico, I was vaccinating cats and dogs against rabies in both rural areas and city neighborhoods when I first understood the importance of epidemiology. Each shot was not only protecting animals but also preventing human cases. Around the same time, I became fascinated by disease surveillance and started following real time reports from WAHIS. That's when I truly realized how closely animal, human, and environmental health are connected.
 
-## Current Focus
+Working as a vet across Mexico and the USA taught me something crucial: context matters. The same disease behaves differently depending on culture, economy, and environment. Numbers tell part of the story, but the human and animal experiences behind the data are just as important.
+
+Now, whether I'm hiking in the Swiss Alps or researching tick-borne diseases, I look at the world through a One Health lens. Every tick I see is a small but telling signal of how the environment and human actions shape disease patterns.
+
+What drives me? The same lesson I learned when I lost my childhood apiary to pests in Mexico, that prevention is key, and that small creatures can have enormous impacts in our world.
+
+## About Me
 
 -   🎓 **Master's in Epidemiology** (Expected 2026)
--   📊 **Seeking remote opportunities** in Epidemiology, Public Health, or Data Analysis
--   🧬 **Thesis**: Environmental and Anthropogenic factors for Tick-Borne Diseases in Switzerland
--   💻 **Skills**: R programming, statistical analysis, data visualization, AI tools
 
-## What I Offer
+-   📊 **Seeking remote opportunities** in epidemiology, public health, or data analysis (2025)
 
-**Unique Background**: Clinical veterinary medicine meets epidemiological research under the One Health scope.
+-   🧬 **Thesis**: Environmental and anthropogenic factors for tick-borne diseases in Switzerland
 
-**Technical Skills**: Comfortable in RStudio, statistical modeling, and data visualization. Currently developing AI digital tools for the veterinary community in Mexico.
+-   💻 **Skills**: R programming, statistical analysis, data visualization, GitHub
 
-**Research Experience**: Contributing to peer reviewed research with hands on experience in study design, data analysis, and scientific communication.
-
-------------------------------------------------------------------------
-
-*Ready to contribute to meaningful projects in epidemiology, public health, or veterinary research. Available for remote opportunities in 2025 and full-time positions starting in 2026.*
+-   *Ready to contribute to meaningful projects where veterinary insight meets epidemiological rigor. Available for remote opportunities in 2025 and full-time positions starting in 2026.*
