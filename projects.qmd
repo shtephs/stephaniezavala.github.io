@@ -1,0 +1,71 @@
+---
+title: "Projects"
+---
+
+## Research Publications
+
+### One Health in Social-Ecological Systems: Optimizing Natural Resources, Livelihoods and Health of Humans and Animals in Mongolia
+
+**Status:** Under revision \| **Role:** Co-author, Annex Development
+
+This interdisciplinary research explores the complex relationships between human communities, livestock, wildlife, and environmental health in Mongolia's pastoral systems. My contribution focused on developing comprehensive annexes that bridge veterinary science with socio-ecological analysis.
+
+**Key Contributions:** - Development of technical annexes linking animal health indicators to ecosystem sustainability - Integration of veterinary epidemiological concepts with social-ecological frameworks - Synthesis of livestock health data with environmental and livelihood outcomes
+
+------------------------------------------------------------------------
+
+## Current Research
+
+### Master's Thesis: Environmental and Anthropogenic Factors for Tick-borne Diseases in Switzerland
+
+**Status:** Protocol development phase \| **Expected completion:** 2026
+
+Investigating how climate change and human activities influence the distribution and risk patterns of tick-borne diseases across Swiss landscapes.
+
+**Methodology:** - Time series analysis using national surveillance data - Geographic Information Systems (GIS) for spatial analysis - Integration of environmental, demographic, and epidemiological datasets - Statistical modeling to identify risk factors and predict future trends
+
+**Data Sources:** Swiss national health surveillance systems and meteorological data
+
+------------------------------------------------------------------------
+
+## Technical Projects
+
+### Mathematical Modeling of Influenza Epidemics
+
+**Tools:** R, SEIR models, epidemiological modeling
+
+Developed comprehensive mathematical models to simulate influenza transmission dynamics, combining SEIR (Susceptible-Exposed-Infected-Recovered) frameworks with additional epidemiological parameters.
+
+**Technical Skills Demonstrated:** - Advanced R programming for epidemiological modeling - Parameter estimation and model validation - Scenario analysis and sensitivity testing - Data visualization of epidemic curves and transmission patterns
+
+### Research Data Management & Analysis
+
+**Tools:** R, data cleaning, statistical analysis
+
+Comprehensive data cleaning and analysis project focusing on research data management best practices. Worked with complex, real-world datasets to demonstrate proficiency in: - Data quality assessment and cleaning protocols - Statistical analysis pipeline development - Documentation and reproducible analysis workflows - Data visualization and reporting
+
+------------------------------------------------------------------------
+
+## Innovation in Development
+
+### VetClinic Assistant App
+
+**Status:** In development \| **Target:** Mexican veterinary market
+
+Developing an AI-powered mobile application to revolutionize veterinary consultations by reducing administrative burden and improving clinical documentation accuracy.
+
+**Key Features:** - **Audio-to-text transcription** of veterinary consultations - **Automated consultation summaries** with key clinical findings - **Diagnostic suggestions** based on clinical protocols - **Streamlined medical records** management - **Time optimization** for veterinary professionals
+
+**Technical Stack:** Mobile app development, natural language processing, veterinary clinical databases
+
+**Impact Goal:** Reduce consultation documentation time by 50% while improving record accuracy and clinical decision support for veterinarians in Mexico.
+
+------------------------------------------------------------------------
+
+## Skills Demonstrated Across Projects
+
+-   **Programming:** R, statistical modeling, data visualization
+-   **Analysis:** Time series analysis, GIS, epidemiological modeling
+-   **Research:** Literature review, protocol development, interdisciplinary collaboration
+-   **Innovation:** Mobile app development, AI integration, user experience design
+-   **Communication:** Scientific writing, technical documentation, cross-cultural collaboration

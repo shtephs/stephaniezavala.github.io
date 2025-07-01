@@ -37,9 +37,9 @@
   {
     "objectID": "projects.html",
     "href": "projects.html",
-    "title": "",
+    "title": "Projects",
     "section": "",
-    "text": "Code"
+    "text": "Status: Under revision | Role: Co-author, Annex Development\nThis interdisciplinary research explores the complex relationships between human communities, livestock, wildlife, and environmental health in Mongolia’s pastoral systems. My contribution focused on developing comprehensive annexes that bridge veterinary science with socio-ecological analysis.\nKey Contributions: - Development of technical annexes linking animal health indicators to ecosystem sustainability - Integration of veterinary epidemiological concepts with social-ecological frameworks - Synthesis of livestock health data with environmental and livelihood outcomes"
   },
   {
     "objectID": "contact.html",
@@ -75,5 +75,40 @@
     "title": "Stephanie Zavala",
     "section": "About Me",
     "text": "About Me\n\n🎓 Master’s in Epidemiology (Expected 2026)\n📊 Seeking remote opportunities in epidemiology, public health, or data analysis (2025)\n🧬 Thesis: Environmental and anthropogenic factors for tick-borne diseases in Switzerland\n💻 Skills: R programming, statistical analysis, data visualization, GitHub"
+  },
+  {
+    "objectID": "projects.html#research-publications",
+    "href": "projects.html#research-publications",
+    "title": "Projects",
+    "section": "",
+    "text": "Status: Under revision | Role: Co-author, Annex Development\nThis interdisciplinary research explores the complex relationships between human communities, livestock, wildlife, and environmental health in Mongolia’s pastoral systems. My contribution focused on developing comprehensive annexes that bridge veterinary science with socio-ecological analysis.\nKey Contributions: - Development of technical annexes linking animal health indicators to ecosystem sustainability - Integration of veterinary epidemiological concepts with social-ecological frameworks - Synthesis of livestock health data with environmental and livelihood outcomes"
+  },
+  {
+    "objectID": "projects.html#current-research",
+    "href": "projects.html#current-research",
+    "title": "Projects",
+    "section": "Current Research",
+    "text": "Current Research\n\nMaster’s Thesis: Environmental and Anthropogenic Factors for Tick-borne Diseases in Switzerland\nStatus: Protocol development phase | Expected completion: 2026\nInvestigating how climate change and human activities influence the distribution and risk patterns of tick-borne diseases across Swiss landscapes.\nMethodology: - Time series analysis using national surveillance data - Geographic Information Systems (GIS) for spatial analysis - Integration of environmental, demographic, and epidemiological datasets - Statistical modeling to identify risk factors and predict future trends\nData Sources: Swiss national health surveillance systems and meteorological data"
+  },
+  {
+    "objectID": "projects.html#technical-projects",
+    "href": "projects.html#technical-projects",
+    "title": "Projects",
+    "section": "Technical Projects",
+    "text": "Technical Projects\n\nMathematical Modeling of Influenza Epidemics\nTools: R, SEIR models, epidemiological modeling\nDeveloped comprehensive mathematical models to simulate influenza transmission dynamics, combining SEIR (Susceptible-Exposed-Infected-Recovered) frameworks with additional epidemiological parameters.\nTechnical Skills Demonstrated: - Advanced R programming for epidemiological modeling - Parameter estimation and model validation - Scenario analysis and sensitivity testing - Data visualization of epidemic curves and transmission patterns\n\n\nResearch Data Management & Analysis\nTools: R, data cleaning, statistical analysis\nComprehensive data cleaning and analysis project focusing on research data management best practices. Worked with complex, real-world datasets to demonstrate proficiency in: - Data quality assessment and cleaning protocols - Statistical analysis pipeline development - Documentation and reproducible analysis workflows - Data visualization and reporting"
+  },
+  {
+    "objectID": "projects.html#innovation-in-development",
+    "href": "projects.html#innovation-in-development",
+    "title": "Projects",
+    "section": "Innovation in Development",
+    "text": "Innovation in Development\n\nVetClinic Assistant App\nStatus: In development | Target: Mexican veterinary market\nDeveloping an AI-powered mobile application to revolutionize veterinary consultations by reducing administrative burden and improving clinical documentation accuracy.\nKey Features: - Audio-to-text transcription of veterinary consultations - Automated consultation summaries with key clinical findings - Diagnostic suggestions based on clinical protocols - Streamlined medical records management - Time optimization for veterinary professionals\nTechnical Stack: Mobile app development, natural language processing, veterinary clinical databases\nImpact Goal: Reduce consultation documentation time by 50% while improving record accuracy and clinical decision support for veterinarians in Mexico."
+  },
+  {
+    "objectID": "projects.html#skills-demonstrated-across-projects",
+    "href": "projects.html#skills-demonstrated-across-projects",
+    "title": "Projects",
+    "section": "Skills Demonstrated Across Projects",
+    "text": "Skills Demonstrated Across Projects\n\nProgramming: R, statistical modeling, data visualization\nAnalysis: Time series analysis, GIS, epidemiological modeling\nResearch: Literature review, protocol development, interdisciplinary collaboration\nInnovation: Mobile app development, AI integration, user experience design\nCommunication: Scientific writing, technical documentation, cross-cultural collaboration"
   }
 ]
