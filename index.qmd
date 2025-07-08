@@ -19,16 +19,14 @@ about:
       href: https://zoomenteinfo.wixsite.com/zoomente
 ---
 
-## **Welcome**
+# Welcome
 
-Hello, I’m Stephanie. I’m a veterinarian currently completing a Master’s in Epidemiology. This website is my portfolio, where I share my background, current work, and interests.
+This is my digital workspace.
 
-## **Overview**
+I'm Stephanie, a veterinarian and MSc Epidemiology student exploring the intersection of public health, data, and innovation.
 
-🎓 Master’s in Epidemiology (expected 2026)
+------------------------------------------------------------------------
 
-📊 Seeking remote opportunities in epidemiology, public health, or data analysis (2025)
+## ↓ Explore
 
-🧬 Thesis: Environmental and anthropogenic factors influencing tick-borne diseases in Switzerland
-
-💻 Skills: R programming, statistical analysis, data visualization, GitHub
+[Research](projects.qmd) \| [Experience](cv.qmd) \

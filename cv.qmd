@@ -3,21 +3,28 @@ title: "Curriculum Vitae"
 format: html
 ---
 
-## 📄 Download CV (PDF)
+## CV Download
 
-[Click here to view or download my CV](stephanie-zavala-cv.pdf){target="_blank"}
+> See my full CV for details:
 
-------------------------------------------------------------------------
-
-## Core Competencies
-
--   **One Health Approach:** Integrating animal, human, and environmental health
--   **Disease Control:** Zoonotic disease prevention, surveillance, and outbreak management
--   **Clinical Excellence:** Emergency care, anesthesia management, surgical support
--   **Data Analysis:** Statistical software, epidemiological modeling, research methodologies
--   **Cross-Cultural Collaboration:** International work experience across Mexico, USA, and Switzerland
--   **Public Health:** Community engagement, vaccination campaigns, health education
+👉 [CV_Stephanie Zavala-2025](stephanie-zavala-cv.pdf){target="_blank"}
 
 ------------------------------------------------------------------------
 
-*Available for remote opportunities in 2025 and full-time positions starting in 2026*
+## Daily toolbox
+
+| Tool | Purpose | Used In |
+|-----------------|-------------------------|------------------------------|
+| RStudio | Data cleaning and visualization | Epidemiology learning |
+| Quarto, Markdown | Scientific reports, website | Portfolio, data cleaning, disease modeling |
+| Open AI, Anthropic, Copilot | Vibe coding, tech learning | Personal projects, prompting, AI in science |
+| GitHub | Version control | Portfolio, markdown projects |
+| Notion, Obsidian | Research planning, tool tracking, note taking, markdown | Project management |
+
+------------------------------------------------------------------------
+
+## Open to
+
+-   Roles in **epidemiology**, **public health**, or **data science**
+-   Collaborations in **AI for Science**, **One Health research, Disease Modeling or Data Analysis**
+-   Research assistantships or project based work (2025+)

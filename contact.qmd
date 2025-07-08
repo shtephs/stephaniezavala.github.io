@@ -1,27 +1,21 @@
 # Contact
 
-I'd love to hear from you!
-
-## Get in Touch
+Let's Connect!
 
 ::: contact-email
-📧 Email Me
-
-Drop me a line anytime! I typically respond within 24 hours.
+📧
 
 [Send Email](mailto:stephaniezvv@gmail.com){.btn .btn-primary}
 
-*stephaniezvv\@gmail.com*
+*stephanie.zavala\@unibas.ch*
 :::
 
-## Let's Connect
+### Looking for
 
--   **Project collaboration**
+✓ Project collaboration
 
--   **Professional opportunities**
+✓ Professional opportunities
 
--   **Just to chat**
+✓ Just to chat
 
 ------------------------------------------------------------------------
-
-*Looking forward to connecting!*

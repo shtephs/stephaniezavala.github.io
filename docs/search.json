@@ -4,28 +4,28 @@
     "href": "cv.html",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Click here to view or download my CV"
+    "text": "See my full CV for details:\n\n👉 CV_Stephanie Zavala-2025"
   },
   {
     "objectID": "cv.html#download-cv-pdf",
     "href": "cv.html#download-cv-pdf",
     "title": "Curriculum Vitae",
     "section": "",
-    "text": "Click here to view or download my CV"
+    "text": "📄 Click here to view or download my CV"
   },
   {
     "objectID": "cv.html#core-competencies",
     "href": "cv.html#core-competencies",
     "title": "Curriculum Vitae",
-    "section": "Core Competencies",
-    "text": "Core Competencies\n\nOne Health Approach: Integrating animal, human, and environmental health\nDisease Control: Zoonotic disease prevention, surveillance, and outbreak management\nClinical Excellence: Emergency care, anesthesia management, surgical support\nData Analysis: Statistical software, epidemiological modeling, research methodologies\nCross-Cultural Collaboration: International work experience across Mexico, USA, and Switzerland\nPublic Health: Community engagement, vaccination campaigns, health education\n\n\nAvailable for remote opportunities in 2025 and full-time positions starting in 2026"
+    "section": "",
+    "text": "🩺 Clinical Practice & One Health\n🌍 Global & Cross-Cultural Field Experience\n🧪 Zoonotic Disease Control & Surveillance\n📊 Data Analysis & Visualization (R, Quarto, GIS)\n💡 Research Design & Scientific Communication\n🤖 Tech Exploration: APIs, AI tools, MVPs"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Stephanie Zavala",
     "section": "",
-    "text": "Hello, I’m Stephanie. I’m a veterinarian currently completing a Master’s in Epidemiology. This website is my portfolio, where I share my background, current work, and interests."
+    "text": "This is my digital workspace.\nI’m Stephanie, a veterinarian and MSc Epidemiology student exploring the intersection of public health, data, and innovation.\n\n\n\nResearch | Experience"
   },
   {
     "objectID": "index.html#welcome",
@@ -39,42 +39,42 @@
     "href": "index.html#overview",
     "title": "Stephanie Zavala",
     "section": "Overview",
-    "text": "Overview\n🎓 Master’s in Epidemiology (expected 2026)\n📊 Seeking remote opportunities in epidemiology, public health, or data analysis (2025)\n🧬 Thesis: Environmental and anthropogenic factors influencing tick-borne diseases in Switzerland\n💻 Skills: R programming, statistical analysis, data visualization, GitHub"
+    "text": "Overview\n🎓 MSc Epidemiology, University of Basel - Swiss TPH (2026)\n🧬 Thesis: Modeling how human and environmental dynamics affect tick-borne diseases in Switzerland\n📊 Focused on data driven approaches in public health, zoonoses, and One Health systems\n💻 Core tools: R, GitHub, Data Cleaning and Analysis\n🧠 Innovation stack: AI tools, API integrations, prototyping for research"
   },
   {
     "objectID": "contact.html",
     "href": "contact.html",
     "title": "",
     "section": "",
-    "text": "Code"
+    "text": "Code\n\n\n\n\n\nContact\nLet’s Connect!\n\n📧\nSend Email\nstephanie.zavala@unibas.ch\n\n\nLooking for\n✓ Project collaboration\n✓ Professional opportunities\n✓ Just to chat"
   },
   {
     "objectID": "contact.html#get-in-touch",
     "href": "contact.html#get-in-touch",
     "title": "",
     "section": "Get in Touch",
-    "text": "Get in Touch\n\n📧 Email Me\nDrop me a line anytime! I typically respond within 24 hours.\nSend Email\nstephaniezvv@gmail.com"
+    "text": "Get in Touch\n\n📧 Drop me a line anytime! I typically respond within 24 hours.\nSend Email\nstephaniezvv@gmail.com"
   },
   {
     "objectID": "contact.html#lets-connect",
     "href": "contact.html#lets-connect",
     "title": "",
-    "section": "Let’s Connect",
-    "text": "Let’s Connect\n\nProject collaboration\nProfessional opportunities\nJust to chat\n\n\nLooking forward to connecting!"
+    "section": "Let’s Connect!",
+    "text": "Let’s Connect!\n\n📧 Drop me a line anytime! I typically respond within 24 hours.\nSend Email\nstephanie.zavala@unibas.ch\n\n\nLooking for\n\nProject collaboration\nProfessional opportunities\nJust to chat"
   },
   {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Status: Research paper under revision\nRole: Co-author\nExplores the links between livestock, wildlife, and environmental health. I developed technical annexes connecting veterinary indicators to ecosystem sustainability.\nKey skills: Interdisciplinary synthesis, One Health, data integration\n\n\n\nStatus: Protocol phase | Expected: 2026\nMaster’s thesis on how climate and human activity affect tick disease risk. Uses GIS and national surveillance data for spatial and time series analysis.\nTools: GIS, R, epidemiological modeling\n\n\n\nTools: R, SEIR models\nSimulated flu outbreaks with R using SEIR modeling. Included parameters and visualizing epidemic curves.\nSkills: Advanced R, modeling, visualization\n\n\n\nFocused on real-world research data processing and pipeline design using R. Emphasized reproducibility and reporting.\nSkills: Statistical analysis, documentation, QA\n\n\n\nStatus: In development\nBuilding an AI mobile app to help vets document cases faster. Includes audio transcription, auto-summary, and diagnostic suggestions.\nTech: NLP, UX, mobile development"
+    "text": "I work across technical, field, and research spaces. Here’s a summary selection of recent and ongoing work."
   },
   {
     "objectID": "projects.html#overview",
     "href": "projects.html#overview",
     "title": "Projects",
     "section": "",
-    "text": "Status: Research paper under revision\nRole: Co-author\nExplores the links between livestock, wildlife, and environmental health. I developed technical annexes connecting veterinary indicators to ecosystem sustainability.\nKey skills: Interdisciplinary synthesis, One Health, data integration\n\n\n\nStatus: Protocol phase | Expected: 2026\nMaster’s thesis on how climate and human activity affect tick disease risk. Uses GIS and national surveillance data for spatial and time series analysis.\nTools: GIS, R, epidemiological modeling\n\n\n\nTools: R, SEIR models\nSimulated flu outbreaks with R using SEIR modeling. Included parameters and visualizing epidemic curves.\nSkills: Advanced R, modeling, visualization\n\n\n\nFocused on real-world research data processing and pipeline design using R. Emphasized reproducibility and reporting.\nSkills: Statistical analysis, documentation, QA\n\n\n\nStatus: In development\nBuilding an AI mobile app to help vets document cases faster. Includes audio transcription, auto-summary, and diagnostic suggestions.\nTech: NLP, UX, mobile development"
+    "text": "I work across technical, field, and research spaces. Here’s a summary selection of recent and ongoing work."
   },
   {
     "objectID": "projects.html#core-skills",
@@ -88,20 +88,174 @@
     "href": "about.html",
     "title": "About",
     "section": "",
-    "text": "My journey began in veterinary school in Mexico, vaccinating cats and dogs against rabies in both rural and urban areas. This experience led me to pursue a postgraduate in epidemiology.\n\n\n\nFollowing real time reports from WAHIS and publications from the World Organisation for Animal Health introduced me to disease surveillance and the One Health approach.\n\n\n\nWorking as a vet across Mexico and the USA taught me something crucial: context matters. The same disease behaves differently depending on culture, economy, and environment. Numbers tell part of the story, but the human and animal experiences behind the data are just as important.\n\n\n\nI learned that prevention and monitoring are essential, and that small agents can cause large scale consequences, as the COVID-19 pandemic showed.\n\n\n\nNow, while researching tick-borne diseases and hiking in the Swiss Alps, I focus on how environment and human behavior shape disease patterns."
+    "text": "MyJourney\n\n\n\nA\n\n🩺 Vet School\n\n\n\nB\n\nRabies mass vaccination &\ndata collection\n\n\n\nA-&gt;B\n\n\n\n\n\nF\n\nVeterinary practice in\nMexico & USA\n\n\n\nA-&gt;F\n\n\n\n\n\nC\n\nIntroduced to Epidemiology\n\n\n\nB-&gt;C\n\n\n\n\n\nD\n\n🌍 One Health\napproach\n\n\n\nC-&gt;D\n\n\n\n\n\nE\n\n📊 Interest in disease \nsurveillance systems (e.g. WAHIS)\n\n\n\nD-&gt;E\n\n\n\n\n\nI\n\nNeed for prevention &\ndisease monitoring\n\n\n\nE-&gt;I\n\n\n\n\n\nG\n\nDifferent cultural &\nsocio-economic context\n\n\n\nF-&gt;G\n\n\n\n\n\nH\n\nTransdisciplinarity\n\n\n\nG-&gt;H\n\n\n\n\n\nH-&gt;I\n\n\n\n\n\nK\n\n🎓 MSc Epidemiology\nin Switzerland\n\n\n\nI-&gt;K\n\n\n\n\n\nL\n\n🔬 Research on Tick-borne diseases\n\n\n\nK-&gt;L\n\n\n\n\n\nM\n\n🌳 Exploring human–environment\ninteractions in disease\n\n\n\nL-&gt;M"
   },
   {
     "objectID": "about.html#my-journey",
     "href": "about.html#my-journey",
     "title": "About",
     "section": "",
-    "text": "My journey began in veterinary school in Mexico, vaccinating cats and dogs against rabies in both rural and urban areas. This experience led me to pursue a postgraduate in epidemiology.\n\n\n\nFollowing real time reports from WAHIS and publications from the World Organisation for Animal Health introduced me to disease surveillance and the One Health approach.\n\n\n\nWorking as a vet across Mexico and the USA taught me something crucial: context matters. The same disease behaves differently depending on culture, economy, and environment. Numbers tell part of the story, but the human and animal experiences behind the data are just as important.\n\n\n\nI learned that prevention and monitoring are essential, and that small agents can cause large scale consequences, as the COVID-19 pandemic showed.\n\n\n\nNow, while researching tick-borne diseases and hiking in the Swiss Alps, I focus on how environment and human behavior shape disease patterns."
+    "text": "```{mermaid} flowchart TD A[👩‍⚕️ Vet School in Mexico] A –&gt; B[🐶 Rabies VaccinationRural & Urban Field Work] A –&gt; C[🔬 Discovered Epidemiology] C –&gt; D[🌐 One Health Approach] C –&gt; E[📊 Disease Surveillance(WAHIS, WOAH)]\nA --&gt; F[🌎 Vet Work in Mexico & USA]\nF --&gt; G[🧠 Contextual Insights:&lt;br&gt;Cultural & Economic Factors]\nG --&gt; H[📍Same disease,&lt;br&gt;different realities]\n\nD --&gt; I[📝 Realized Need for Prevention]\nE --&gt; I\nH --&gt; I\nI --&gt; J[💡 Key Lesson:&lt;br&gt;Small agents → Big consequences (e.g. COVID)]\n\nJ --&gt; K[🎓 MSc in Switzerland]\nK --&gt; L[🧬 Tick-borne Disease Research]\nL --&gt; M[🌱 Exploring Human-Environment-Disease Patterns]"
   },
   {
     "objectID": "about.html#beyond-my-computer",
     "href": "about.html#beyond-my-computer",
     "title": "About",
-    "section": "Beyond my Computer",
-    "text": "Beyond my Computer\n\nPersonal Interests\n\n\n🏞 Hiking\nNothing beats fresh mountain air to clear the mind.\n\n\n🚴 Mountain Biking & Cycling\nFrom pedal power to peaceful coffee sips, balance is key.\n\n\n🎬 Brain Rest\nScreen time watching cinema fuels my next big idea.\n\n\n\nLifelong Learning\nI genuinely enjoy learning new things and being a beginner. There’s something nice about figuring things out from scratch, whether it’s crocheting, baking, learning programming language, or a new statistical method."
+    "section": "Beyond my computer",
+    "text": "Beyond my computer"
+  },
+  {
+    "objectID": "about.html#academic-journey",
+    "href": "about.html#academic-journey",
+    "title": "About",
+    "section": "",
+    "text": "MyJourney\n\n\n\nA\n\n🩺 Vet School\n\n\n\nB\n\nRabies mass vaccination &\ndata collection\n\n\n\nA-&gt;B\n\n\n\n\n\nF\n\nVeterinary practice in\nMexico & USA\n\n\n\nA-&gt;F\n\n\n\n\n\nC\n\nIntroduced to Epidemiology\n\n\n\nB-&gt;C\n\n\n\n\n\nD\n\n🌍 One Health\napproach\n\n\n\nC-&gt;D\n\n\n\n\n\nE\n\n📊 Interest in disease \nsurveillance systems (e.g. WAHIS)\n\n\n\nD-&gt;E\n\n\n\n\n\nI\n\nNeed for prevention &\ndisease monitoring\n\n\n\nE-&gt;I\n\n\n\n\n\nG\n\nDifferent cultural &\nsocio-economic context\n\n\n\nF-&gt;G\n\n\n\n\n\nH\n\nTransdisciplinarity\n\n\n\nG-&gt;H\n\n\n\n\n\nH-&gt;I\n\n\n\n\n\nK\n\n🎓 MSc Epidemiology\nin Switzerland\n\n\n\nI-&gt;K\n\n\n\n\n\nL\n\n🔬 Research on Tick-borne diseases\n\n\n\nK-&gt;L\n\n\n\n\n\nM\n\n🌳 Exploring human–environment\ninteractions in disease\n\n\n\nL-&gt;M"
+  },
+  {
+    "objectID": "about.html#beyond-the-lab",
+    "href": "about.html#beyond-the-lab",
+    "title": "About",
+    "section": "Beyond the lab",
+    "text": "Beyond the lab\n\nI love creating\n✐ Projects, apps, building MVPs or just blogging vet content.\n\n\nTech + Learning = Playground\n⚙︎ Vibe coding, exploring new tools, or getting lost in a labyrinth of AI APIs and data.\n\n\nThe Outdoors\nI’ll take mosquito bites if it means peace, clarity, and a good adventure.\n\n\nBrain Recharge\nLate 90s human. I’m into films, pop culture, CDs, film photos & park backgammon ☺︎"
+  },
+  {
+    "objectID": "cv.html#toolbox",
+    "href": "cv.html#toolbox",
+    "title": "Curriculum Vitae",
+    "section": "Toolbox",
+    "text": "Toolbox\nOpen to opportunities."
+  },
+  {
+    "objectID": "cv.html#core-competences",
+    "href": "cv.html#core-competences",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "Clinical Excellence\nOne Health Approach\nDisease Control\nData Analysis\nCross Cultural Experience\nPublic Health"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "🎓 Education",
+    "text": "🎓 Education\nMSc Epidemiology\nUniversity of Basel, Switzerland\n&gt; Thesis: Environmental and anthropogenic factors influencing tick-borne diseases\nDoctor of Veterinary Medicine (MVZ in Mexico)\nAutonomous University of the State of Hidalgo, Mexico\n&gt; Fieldwork: Rabies campaigns, livestock and clinical practice, field data collection"
+  },
+  {
+    "objectID": "cv.html#field-clinical-experience",
+    "href": "cv.html#field-clinical-experience",
+    "title": "Curriculum Vitae",
+    "section": "🌍 Field & Clinical Experience",
+    "text": "🌍 Field & Clinical Experience\nVeterinarian\nMexico & USA\n&gt; Clinical work in small animal practice with One Health lens.\n&gt; Experience across urban, rural, and cross-border contexts.\nField Assistant\n&gt; Rabies mass vaccination programs, livestock care, rural data collection.\n&gt; Developed early interest in disease prevention and epidemiology."
+  },
+  {
+    "objectID": "cv.html#toolbox-snapshot",
+    "href": "cv.html#toolbox-snapshot",
+    "title": "Curriculum Vitae",
+    "section": "🧰 Toolbox Snapshot",
+    "text": "🧰 Toolbox Snapshot\n\n\n\n\n\n\n\n\n\nTool\nCategory\nLevel\nNotes / Use Cases\n\n\n\n\nRStudio\nData Analysis\nAdvanced\nUsed in research & thesis\n\n\nGitHub\nVersion Control\nProficient\nMarkdown projects + code repo\n\n\nQuarto\nDocs/Reporting\nAdvanced\nPortfolio, reproducible reports\n\n\nWhisper API\nAI / Audio\nIntermediate\nMVP: VetNota transcription\n\n\nObsidian\nWriting / PKM\nAdvanced\nPersonal knowledge base\n\n\nNotion\nPlanning / Docs\nProficient\nResearch planning & tool board"
+  },
+  {
+    "objectID": "cv.html#cv-download",
+    "href": "cv.html#cv-download",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "See my full CV for details:\n\n👉 CV_Stephanie Zavala-2025"
+  },
+  {
+    "objectID": "cv.html#download-cv-pdf-1",
+    "href": "cv.html#download-cv-pdf-1",
+    "title": "Curriculum Vitae",
+    "section": "Download CV (PDF)",
+    "text": "Download CV (PDF)\nClick here to view or download my CV"
+  },
+  {
+    "objectID": "cv.html#currently-open-to",
+    "href": "cv.html#currently-open-to",
+    "title": "Curriculum Vitae",
+    "section": "🚀 Currently Open To",
+    "text": "🚀 Currently Open To\n\nRoles in epidemiology, data analysis, or public health\n\nCollaborations in data science, AI in science, or One Health innovation\n\nResearch assistantships or field-based studies with global health impact"
+  },
+  {
+    "objectID": "cv.html#snapshot",
+    "href": "cv.html#snapshot",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "🎓 MSc Epidemiology (2026) – Thesis on tick-borne diseases and environmental factors\n\n💻 R, Quarto, GitHub, AI tools: used for research and personal projects\n\n🌍 Experience across Mexico, USA, and Switzerland in clinical, rural, and public health settings\n\n🧠 Interest in reproducibility, tool fluency, and building smarter workflows"
+  },
+  {
+    "objectID": "cv.html#tools-i-currently-use",
+    "href": "cv.html#tools-i-currently-use",
+    "title": "Curriculum Vitae",
+    "section": "🔧 Tools I Currently Use",
+    "text": "🔧 Tools I Currently Use\n\n\n\n\n\n\n\n\nTool\nPurpose\nUsed In\n\n\n\n\nR / RStudio\nData, stats, plotting\nThesis, coursework, VetNota\n\n\nQuarto\nScientific reports, website\nThis portfolio, reproducibility\n\n\nOpen AI, Anthropic, Copilot\nVibe coding, tech learning\nPersonal projects, prompting, AI in science\n\n\nGitHub\nVersion control\nPortfolio, markdown projects\n\n\nNotion, Obsidian\nResearch planning, tool tracking, note taking, markdown\nProject management, tool board, notepad, GitHub integration"
+  },
+  {
+    "objectID": "cv.html#available-for",
+    "href": "cv.html#available-for",
+    "title": "Curriculum Vitae",
+    "section": "Available For",
+    "text": "Available For\n\nRoles in epidemiology, public health, or data science\nCollaborations in AI for Science, One Health research, Disease Modeling or Data Analysis\nResearch assistantships or project based work (2025+)"
+  },
+  {
+    "objectID": "cv.html#toolbox-overview",
+    "href": "cv.html#toolbox-overview",
+    "title": "Curriculum Vitae",
+    "section": "🔧 Toolbox overview",
+    "text": "🔧 Toolbox overview\n\n\n\n\n\n\n\n\nTool\nPurpose\nUsed In\n\n\n\n\nR / RStudio\nData, stats, plotting\nThesis, coursework, VetNota\n\n\nQuarto, Markdown\nScientific reports, website\nPortfolio, data cleaning, disease modelling\n\n\nOpen AI, Anthropic, Copilot\nVibe coding, tech learning\nPersonal projects, prompting, AI in science\n\n\nGitHub\nVersion control\nPortfolio, markdown projects\n\n\nNotion, Obsidian\nResearch planning, tool tracking, note taking, markdown\nProject management, tool board, notepad, GitHub integration"
+  },
+  {
+    "objectID": "cv.html#daily-toolbox",
+    "href": "cv.html#daily-toolbox",
+    "title": "Curriculum Vitae",
+    "section": "Daily toolbox",
+    "text": "Daily toolbox\n\n\n\n\n\n\n\n\nTool\nPurpose\nUsed In\n\n\n\n\nRStudio\nData cleaning and visualization\nEpidemiology learning\n\n\nQuarto, Markdown\nScientific reports, website\nPortfolio, data cleaning, disease modeling\n\n\nOpen AI, Anthropic, Copilot\nVibe coding, tech learning\nPersonal projects, prompting, AI in science\n\n\nGitHub\nVersion control\nPortfolio, markdown projects\n\n\nNotion, Obsidian\nResearch planning, tool tracking, note taking, markdown\nProject management"
+  },
+  {
+    "objectID": "projects.html#project-table",
+    "href": "projects.html#project-table",
+    "title": "Projects",
+    "section": "Project Table",
+    "text": "Project Table\n\n\n\n\n\n\n\n\n\n\nProject\nStatus\nType\nTools / Skills\nSummary\n\n\n\n\nOne Health in Mongolia\n📝 Under revision\nResearch\nAnnex development, data integration, scientific writing\nCo-author. Linking Mongolian data indicators to ecosystem health and sustainability.\n\n\nTick-borne Disease in Switzerland\n🔄 In progress\nThesis\nScientific writng, research protocol, RStudio, spatial analysis\nMSc thesis on climate + human activity impacts on disease risk.\n\n\nModeling Influenza Epidemics\n✅ Completed\nLearning\nR, SEIR models, data viz\nSimulated influenza outbreaks and visualized epidemic curves.\n\n\nData Cleaning\n🟡 Ongoing learning process\nPractice\nR, QA, reproducibility, documentation\nReal world pipeline for messy research datasets.\n\n\nVetNota: AI Assistant\n🛠️ In development\nPersonal\nWhisper API, UX, mobile dev, product mgmt\nMVP app for audio transcription and diagnostic notes for veterinarians.\n\n\nDisinfectant Resistance to Giardia spp.\n📝 Under revision\nResearch\nLab data, scientific writing, research protocol\nUndergraduate co-authored paper on disinfectant resistance in vet clinics (Mexico).\n\n\nScoping Review for systematic review\n🟡 Ongoing\nReview\nScoping review, Data extraction\nAssisting with a systematic review about sexual violence in war.\n\n\nData Support for PhD Thesis\n🟡 Starts Aug 2025\nCollaboration\nR, cleaning, exploratory analysis\nVolunteer assistant on external PhD research project. Data focused."
+  },
+  {
+    "objectID": "projects.html#tags-used",
+    "href": "projects.html#tags-used",
+    "title": "Projects",
+    "section": "Tags Used",
+    "text": "Tags Used\n\n#Research: Published or in-progress academic research\n\n#Thesis: Master’s degree related project\n\n#Personal: Independent or experimental MVPs\n\n#Practice: Internal data work, skill sharpening\n\n#Learning: Guided or solo study projects\n\n#Review: Literature synthesis and review\n\n#Collaboration: Informal but meaningful partnerships"
+  },
+  {
+    "objectID": "projects.html#next-steps",
+    "href": "projects.html#next-steps",
+    "title": "Projects",
+    "section": "Next Steps",
+    "text": "Next Steps\nThis list evolves as I explore new tools, ideas, collaborations, and research directions (updated regularly)."
+  },
+  {
+    "objectID": "projects.html#tags",
+    "href": "projects.html#tags",
+    "title": "Projects",
+    "section": "Tags",
+    "text": "Tags\n\n#Research: Published or in-progress academic research\n#Thesis: Master’s degree related project\n#Personal: Independent or experimental MVPs\n#Practice: Internal data work, skill sharpening\n#Learning: Guided or solo study projects\n#Review: Literature synthesis and review\n#Collaboration: Informal but meaningful partnerships"
+  },
+  {
+    "objectID": "index.html#explore",
+    "href": "index.html#explore",
+    "title": "Stephanie Zavala",
+    "section": "",
+    "text": "Research | Experience"
+  },
+  {
+    "objectID": "projects.html#publications",
+    "href": "projects.html#publications",
+    "title": "Projects",
+    "section": "Publications",
+    "text": "Publications\nPending"
+  },
+  {
+    "objectID": "cv.html#open-to",
+    "href": "cv.html#open-to",
+    "title": "Curriculum Vitae",
+    "section": "Open to",
+    "text": "Open to\n\nRoles in epidemiology, public health, or data science\nCollaborations in AI for Science, One Health research, Disease Modeling or Data Analysis\nResearch assistantships or project based work (2025+)"
   }
 ]
