@@ -29,4 +29,4 @@ I'm Stephanie, a veterinarian and MSc Epidemiology student exploring the interse
 
 ## ↓ Explore
 
-[Research](projects.qmd) \| [Experience](cv.qmd) \
+[Research](projects.qmd) \| [Experience](cv.qmd)\

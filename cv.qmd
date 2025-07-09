@@ -14,7 +14,7 @@ format: html
 ## Daily toolbox
 
 | Tool | Purpose | Used In |
-|-----------------|-------------------------|------------------------------|
+|----|----|----|
 | RStudio | Data cleaning and visualization | Epidemiology learning |
 | Quarto, Markdown | Scientific reports, website | Portfolio, data cleaning, disease modeling |
 | Open AI, Anthropic, Copilot | Vibe coding, tech learning | Personal projects, prompting, AI in science |
