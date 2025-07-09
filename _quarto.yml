@@ -1,0 +1,47 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Stephanie Zavala"
+  description: "Veterinarian & Epidemiologist"
+  favicon: favicon.ico
+  
+  navbar:
+    background: primary
+    foreground: light
+    left:
+      - href: index.qmd
+        text: Home
+      - href: about.qmd
+        text: About
+      - href: projects.qmd
+        text: Projects
+      - href: cv.qmd
+        text: CV
+      - href: contact.qmd
+        text: Contact
+    right:
+      - icon: github
+        href: https://github.com/shtephs
+      - icon: linkedin
+        href: https://www.linkedin.com/in/stephanievzavala/
+        
+    
+  page-footer:
+    left: "© 2025 Stephanie Zavala"
+    right: 
+      - icon: envelope
+        href: mailto:stephaniezvv@gmail.com
+
+format:
+  html:
+    theme: [cosmo, custom.scss]
+    css: styles.css
+    toc: true
+    toc-location: right
+    code-fold: true
+    code-tools: true
+    smooth-scroll: true
+    
+editor: visual
