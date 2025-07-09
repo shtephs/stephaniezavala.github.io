@@ -14,7 +14,7 @@ format: html
 ## Daily toolbox
 
 | Tool | Purpose | Used In |
-|----|----|----|
+|------------------------|------------------------|------------------------|
 | RStudio | Data cleaning and visualization | Epidemiology learning |
 | Quarto, Markdown | Scientific reports, website | Portfolio, data cleaning, disease modeling |
 | Open AI, Anthropic, Copilot | Vibe coding, tech learning | Personal projects, prompting, AI in science |
@@ -27,4 +27,4 @@ format: html
 
 -   Roles in **epidemiology**, **public health**, or **data science**
 -   Collaborations in **AI for Science**, **One Health research, Disease Modeling or Data Analysis**
--   Research assistantships or project based work (2025+)
+-   Research assistantships or project based work (2025 onwards)
