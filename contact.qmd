@@ -5,7 +5,7 @@ Let's Connect!
 ::: contact-email
 📧
 
-[Send Email](mailto:stephaniezvv@gmail.com){.btn .btn-primary}
+[Send Email](mailto:zoomenteinfo@gmail.com){.btn .btn-primary}
 :::
 
 ### Looking for
