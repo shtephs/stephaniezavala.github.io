@@ -7,7 +7,7 @@ format: html
 
 > See my full CV for details:
 
-👉 [CV_Stephanie Zavala-2025](stephanie-zavala-cv.pdf){target="_blank"}
+👉 [Stephanie Zavala-2025](CV.pdf){target="_blank"}
 
 ------------------------------------------------------------------------
 
