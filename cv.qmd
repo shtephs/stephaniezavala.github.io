@@ -17,7 +17,7 @@ format: html
 |------------------------|------------------------|------------------------|
 | RStudio | Data cleaning and visualization | Epidemiology learning |
 | Quarto, Markdown | Scientific reports, website | Portfolio, data cleaning, disease modeling |
-| Open AI, Anthropic, Copilot | Vibe coding, tech learning | Personal projects, prompting, AI in science |
+| Open AI, Anthropic, Gemini | Vibe coding, tech learning | Personal projects, prompting, AI in science |
 | GitHub | Version control | Portfolio, markdown projects |
 | Notion, Obsidian | Research planning, tool tracking, note taking, markdown | Project management |
 
