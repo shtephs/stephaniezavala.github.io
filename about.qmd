@@ -47,12 +47,12 @@ A [label = "🩺 Vet School", fillcolor = "#e1f5fe", color = "#01579b"]
 
 ::: box
 **I love creating**\
-✐ Projects, apps, building MVPs or just blogging vet content.
+✐ Projects, apps, building MVPs, researching ideas or just blogging vet content.
 :::
 
 ::: box
 **Tech + Learning = Playground**\
-⚙︎ Vibe coding, exploring new tools, or getting lost in a labyrinth of AI APIs and data.
+⚙︎ Vibe coding, exploring new tools and softwares, prompting on AI and getting lost in a labyrinth of data.
 :::
 
 ::: box

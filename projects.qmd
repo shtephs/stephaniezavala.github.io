@@ -9,7 +9,7 @@ I work across technical, field, and research spaces. Here's a summary selection 
 ## Project Table
 
 | Project | Status | Type | Tools / Skills | Summary |
-|---------------|---------------|---------------|---------------|---------------|
+|----|----|----|----|----|
 | **One Health in Mongolia** | 📝 Under revision | Research | Annex development, data integration, scientific writing | Co-author. Linking Mongolian data indicators to ecosystem health and sustainability. |
 | **Tick-borne Disease in Switzerland** | 🔄 In progress | Thesis | Scientific writing, research protocol, RStudio, spatial analysis | MSc thesis on climate + human activity impacts on disease risk. |
 | **Modeling Influenza Epidemics** | ✅ Completed | Learning | R, SEIR models, data viz | Simulated influenza outbreaks and visualized epidemic curves. |
